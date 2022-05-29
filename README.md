@@ -3,6 +3,13 @@
 The service allows to send image to imagenet-viewer system and track status of the image.
 Also, it shows groups of images.
 
+# Requirements
+
+1. Ubuntu 20.04.3
+2. Python 3.8.10
+3. requirements.txt
+4. python -m pip install git+https://github.com/yashenkoxciv/imagenet-viewer.git
+
 # Endpoints
 ## POST api/v1/image
 
